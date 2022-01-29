@@ -71,13 +71,13 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/KMJ-007/headerParser-Api-Microservice.git
+git clone https://github.com/KMJ-007/american-to-british_translator_FCC_project.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd headerParser-Api-Microservice
+cd american-to-british_translator_FCC_project.
 ```
 
 3. Install dependencies
